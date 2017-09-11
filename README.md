@@ -1,0 +1,2 @@
+# AskNovelGameMaker.ScriptExtractionTool
+ASKノベルゲームメーカーのスクリプト抽出ツール
